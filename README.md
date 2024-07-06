@@ -1,1 +1,1 @@
-<img align="center" width="359" height="auto" alt="endreglocker's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endreglocker&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endreglockekr&layout=donut-vertical)](https://github.com/endreglocker/github-readme-stats)
